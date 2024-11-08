@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+@font-face {
+  font-family: 'Snake Holiday';
+  src: local('Snake Holiday'), url('./fonts/SnakeHoliday-vmYXD.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.font
+{
+  font-family: 'Snake Holiday', sans-serif;
+}

@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Stockton Rush, boss of Titan sub firm said: 'No-one is dying'",
+        "description": "A transcript reveals the OceanGate chief in a heated exchange, years before he and four others died when the submersible imploded.",
+        "url": "https://www.bbc.co.uk/news/articles/c7819kx4498o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/34e0/live/b280dd60-79a1-11ef-b282-4535eb84fe4b.jpg",
+        "publishedAt": "2024-09-23T13:22:11.2074393Z",
+        "content": "The transcript was uploaded to the inquiry website on Friday, but sections of the document were redacted. \r\nThe US Coast Guard has now confirmed to BBC News who was speaking in this key exchange duri… [+2045 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Why do concert tickets now cost as much as a games console?",
+        "description": "Concert tickets have spiralled in recent years. Here, BBC Music Correspondent Mark Savage unpacks exactly what's behind it - and it's not just greed.",
+        "url": "https://www.bbc.co.uk/news/articles/c2kdxlv8x05o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f546/live/787db570-7753-11ef-b282-4535eb84fe4b.png",
+        "publishedAt": "2024-09-23T12:37:16.0673817Z",
+        "content": "Not everyone thinks that way. Punk-pop star Yungblud organised his own festival in Milton Keynes this August, setting prices at a market-beating £49.50.\r\nHe was compelled to take action after noticin… [+3684 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Why 'Comrade Kamala' memes are taking off among Latino exiles",
+        "description": "The Democratic presidential nominee has been the subject of numerous misleading claims that she is a communist.",
+        "url": "https://www.bbc.co.uk/news/articles/cn8jg11ynj7o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3287/live/bf21ab10-76ce-11ef-a163-cf5ed1f7de06.jpg",
+        "publishedAt": "2024-09-23T07:22:16.3375692Z",
+        "content": "There are nearly 36.2 million eligible Latino voters in America, about 14.7% of the US electorate, and many live in key swing states like Nevada and Arizona, which makes them a coveted demographic fo… [+1700 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Ukraine war: Zelensky to present 'victory plan' to Biden, Harris and Trump",
+        "description": "The Ukrainian leader is due to meet the US president before attending the UN General Assembly.",
+        "url": "https://www.bbc.co.uk/news/articles/c5y30244467o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1602/live/f0a6b0f0-7952-11ef-b282-4535eb84fe4b.jpg",
+        "publishedAt": "2024-09-23T06:07:17.7384997Z",
+        "content": "\"This fall will determine the future of this war,\" Zelensky said in a post on X alongside his nightly video address, which he delivered from his plane.\r\nIn a statement ahead of the visit, the Ukraini… [+1832 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "US election: Donald Trump says he probably will not run in 2028 if he loses",
+        "description": "For the second time in a week the Republican presidential candidate has acknowledged the chance of defeat.",
+        "url": "https://www.bbc.co.uk/news/articles/czj9ekdvxx2o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7382/live/0a99e270-7926-11ef-bf71-cf79aa1e04e1.jpg",
+        "publishedAt": "2024-09-22T23:52:17.2387192Z",
+        "content": "He added that \"hopefully, we're going to be very successful.\" \r\nUS law bars presidents from serving more than two terms, and so he is not expected to run in 2028 if he wins, either.\r\nIn the past Trum… [+1970 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "US election polls tracker 2024: Who is ahead - Harris or Trump?",
+        "description": "An in-depth look at the polls and what they can and can’t tell us about who will win the White House.",
+        "url": "https://www.bbc.co.uk/news/articles/cj4x71znwxdo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e457/live/d48d2d60-6f55-11ef-8c1a-df523ba43a9a.png",
+        "publishedAt": "2024-09-22T15:52:11.0043418Z",
+        "content": "The figures we have used in the graphics above are averages created by polling analysis website 538, external, which is part of American news network ABC News. To create them, 538 collect the data fr… [+430 chars]"
+      }
+    ]
+  }  
